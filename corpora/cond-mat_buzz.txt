@@ -1,0 +1,567 @@
+<title> Vortex-induced topological transition of the bilinear-biquadratic Heisenberg antiferromagnet on the triangular lattice </title>
+<title> Elastic properties of vanadium pentoxide aggregates and topological defects </title>
+<title> Ramsey fringes formation during excitation of topological modes in a Bose-Einstein condensate </title>
+<title> Entanglement and topological entropy of the toric code at finite temperature </title>
+<title> Topological insulators beyond the Brillouin zone via Chern parity </title>
+<title> Self-reptation and slow topological time scale of knotted polymers </title>
+<title> A note on the topological order of noncommutative Hall fluids </title>
+<title> Edge solitons of topological insulators and fractionalized quasiparticles in two dimensions </title>
+<title> Orbital magnetization and Chern number in a supercell framework : Single k-point formula </title>
+<title> Characterization of topological states on a lattice with Chern number </title>
+<title> Evidence for high-temperature topological order in an asymmetric quantum Hall system </title>
+<title> Electronic properties of graphene with a topological defect </title>
+<title> Theory of the Nernst effect near quantum phase transitions in condensed matter, and in dyonic black holes </title>
+<title> Rotating molecules in optical lattices, alignment and monopole crystals </title>
+<title> Superconducting proximity effect and Majorana fermions at the surface of a topological insulator </title>
+<title> A quantum topological phase transition at the microscopic level </title>
+<title> Incompressible fluid inside an astrophysical black hole? </title>
+<title> Giant fluctuations of topological charge in a disordered wave guide </title>
+<title> Raman characteristic peaks induced by the topological defects of Carbon Nanotube Intramolecular Junction </title>
+<title> Collective modes of CP(3) Skyrmion crystals in quantum Hall ferromagnets </title>
+<title> Engineering exotic phases for topologically-protected quantum computation by emulating quantum dimer models </title>
+<title> Mosaic spin models with topological order </title>
+<title> Controlled-NOT for multiparticle qubits and topological quantum computation based on parity measurements </title>
+<title> Many-body generalization of the Z2 topological invariant for the quantum spin Hall effect </title>
+<title> Soft Spin Wave Near nu=1 : Evidence for a Magnetic Instability in Skyrmion Systems </title>
+<title> Topological phases and topological entropy of two-dimensional systems with finite correlation length </title>
+<title> NMR Study of Large Skyrmions in Al_{0.13}Ga_{0.87}As Quantum Wells </title>
+<title> Valley contrasting physics in graphene : magnetic moment and topological transport </title>
+<title> Gauge fields, quantized fluxes and monopole confinement of the honeycomb lattice </title>
+<title> Minimal conductivity of rippled graphene with topological disorder </title>
+<title> Order parameter for the dynamical phase transition in Bose-Einstein condensates with topological modes </title>
+<title> Fractional statistics of topological defects in graphene and related structures </title>
+<title> Topological and topological-electronic correlations in amorphous silicon </title>
+<title> Berry Phases, Quantum Phase Transitions and Chern Numbers </title>
+<title> Phase transition between the quantum spin Hall and insulator phases in 3D : emergence of a topological gapless phase </title>
+<title> Electron polarizability of crystalline solids in quantizing magnetic fields and topological gap numbers </title>
+<title> Projected p-wave superconducting wave-functions for topological orders </title>
+<title> Vortex Condensation in the Dual Chern-Simons Higgs Model </title>
+<title> Half quantum vortices and Majorana fermions in triplet superconductors </title>
+<title> Superconductivity and topological Fermi surface transitions in electron-doped cuprates near optimal doping </title>
+<title> Minimum instances of topological matter in an optical plaquette </title>
+<title> Skyrmion versus vortex flux lattices in p-wave superconductors </title>
+<title> Fully frustrated Josephson junction ladders with Mobius boundary conditions as topologically protected qubits </title>
+<title> Non-local density correlations as signal of Hawking radiation in BEC acoustic black holes </title>
+<title> Entanglement renormalization and topological order </title>
+<title> Nodal $d+id$ pairing and topological phases on the triangular lattice : unconventional superconducting state of Na$_x$CoO$_2\cdot y$H$_2$O </title>
+<title> Giant vortex and Skyrmion in a rotating two-species Bose-Einstein condensate </title>
+<title> Topological Entanglement Entropy in Chern-Simons Theories and Quantum Hall Fluids </title>
+<title> Numerical observation of Hawking radiation from acoustic black holes in atomic Bose-Einstein condensates </title>
+<title> On the deflection of light by topological defects in nematic liquid crystals </title>
+<title> Hierarchy Construction of Quantum Hall States and Non-Commutative Chern-Simons Theory </title>
+<title> Interplay of topological and structural defects in the 2D XY model </title>
+<title> Mutual Chern-Simons theory for Z_2 topological order </title>
+<title> Classification of topological insulators and superconductors in three spatial dimensions </title>
+<title> Network protocol scalability via a topological Kadanoff transformation </title>
+<title> Twisted SUSY Invariant Formulation of Chern-Simons Gauge Theory on a Lattice </title>
+<title> Chern-number spin Hamiltonians for magnetic nano-clusters by DFT methods </title>
+<title> String order and hidden topological symmetry in the SO(2n+1) symmetric matrix product states </title>
+<title> Probing individual topological tunnelling events of a quantum field via their macroscopic consequences </title>
+<title> Construction of topological defect networks with complex scalar fields </title>
+<title> Role of the Majorana Fermion and the Edge Mode in Chiral Superfluidity near a p-Wave Feshbach Resonance </title>
+<title> Physical realization and identification of topological excitations in quantum Heisenberg ferromagnet on lattice </title>
+<title> Entanglement Skyrmions in multicomponent quantum Hall systems </title>
+<title> Scaling law for topologically ordered systems at finite temperature </title>
+<title> Magnetic moments in the presence of topological defects in graphene </title>
+<title> Splitting of a Cooper pair by a pair of Majorana bound states </title>
+<title> Gauge symmetry breaking and topological quantization for the Pauli Hamiltonian </title>
+<title> Non-Abelian magnetic monopole in a Bose-Einstein condensate </title>
+<title> Tensor-entanglement renormalization group approach to topological phases </title>
+<title> Physical realization and possible identification of topological excitations in quantum Heisenberg anti-ferromagnet on a two dimensional lattice </title>
+<title> The Berry phase : a topological test for the spectrum structure of frustrated quantum spin systems </title>
+<title> Characterizing the intermediate phases of elastic networks through topological analysis </title>
+<title> Dirac-point engineering and topological phase transitions in honeycomb optical lattices </title>
+<title> Condensate induced transitions between topologically ordered phases </title>
+<title> Characterizing the Hofstadter butterfly's outline with Chern numbers </title>
+<title> Vacuum polarization in graphene with a topological defect </title>
+<title> Magnetic impurities on the surface of a topological insulator </title>
+<title> Deformed boson-fermion correspondence, Q-bosons, and topological strings on the conifold </title>
+<title> Lieb-Robinson bounds and the speed of light from topological order </title>
+<title> The Hall conductance, topological quantum phase transition and the Diophantine equation on honeycomb lattice </title>
+<title> Majorana bound state in rotating superfluid 3He-A between parallel plates </title>
+<title> Graphene in a Strong Magnetic Field : Massless Dirac Particles vs. Skyrmions </title>
+<title> On topological spin excitations on a rigid torus </title>
+<title> Magnetic monopole and string excitations in a two-dimensional spin ice </title>
+<title> The edge spectrum of Chern insulators with rough boundaries </title>
+<title> Entanglement properties of topological color codes </title>
+<title> Phases of the Dirac determinant, Abelian Chern-Simons terms and Berry's phases in the field theoretic description of graphene </title>
+<title> Accounting for monopole configurations in Yang-Mills theory in three Euclidean dimensions </title>
+<title> Chern-Simons-Matter Theory and Mirror Symmetry </title>
+<title> Quantum criticality and black holes </title>
+<title> Electric polarization in a Chern insulator </title>
+<title> Global phase diagrams of frustrated quantum antiferromagnets in two dimensions : doubled Chern-Simons theory </title>
+<title> Seeing the magnetic monopole through the mirror of topological surface states </title>
+<title> Three-dimensional topological phase on the diamond lattice </title>
+<title> A family of super Schrodinger invariant Chern-Simons matter systems </title>
+<title> Testing for Majorana Zero Modes in a Px+iPy Superconductor at High Temperature by Tunneling Spectroscopy </title>
+<title> Depinning and critical current characteristics of topologically defected vortex lattices </title>
+<title> Gauge Covariance Relations and the Fermion Propagator in Maxwell-Chern-Simons QED3 </title>
+<title> Topological Phases of Noncentrosymmetric Superconductors : Edge States, Majorana Fermions, and the Non-Abelian Statistics </title>
+<title> An exact spin liquid state on the kagome lattice with topological order </title>
+<title> Isotope effect on the E2g phonon and mesoscopic phase separation near the electronic topological transition in Mg1-xAlxB2 </title>
+<title> Implementing topological quantum manipulation with superconducting circuits </title>
+<title> Manifestations of topological effects in graphene </title>
+<title> Structures and topological transitions of hydrocarbon films on quasicrystalline surfaces </title>
+<title> From Majorana theory of atomic autoionization to Feshbach resonances in high temperature superconductors </title>
+<title> Electrons on the surface of Bi2Se3 form a topologically-ordered two dimensional gas with a non-trivial Berry's phase </title>
+<title> Computational equivalence of the two inequivalent spinor representations of the braid group in the Ising topological quantum computer </title>
+<title> Implementation of Clifford gates in the Ising-anyon topological quantum computer </title>
+<title> Skyrmion in spinor condensates and its stability in trap potentials </title>
+<title> A theory of topological edges and domain walls </title>
+<title> Toric-boson model : Toward a topological quantum memory at finite temperature </title>
+<title> Fractional Quantum Hall Effect via Holography : Chern-Simons, Edge States, and Hierarchy </title>
+<title> Berry phase mediated topological thermoelectric transport in gapped single and bilayer graphene </title>
+<title> Lattice model of three-dimensional topological singlet superconductor with time-reversal symmetry </title>
+<title> Magnetic soliton transport over topological spin texture in chiral helimagnet with strong easy-plane anisotropy </title>
+<title> Periodic table for topological insulators and superconductors </title>
+<title> Stable topological textures in a classical 2D Heisenberg model </title>
+<title> Fidelity in topological quantum phases of matter </title>
+<title> Exciton condensation and charge fractionalization in a topological insulator film </title>
+<title> A topological Dirac insulator in a quantum spin Hall phase  : Experimental observation of first strong topological insulator </title>
+<title> Skyrmion Lattice in a Chiral Magnet </title>
+<title> First direct observation of Spin-textures in Topological Insulators  : Spin-resolved ARPES as a probe of topological quantum spin Hall effect and Berry's phase </title>
+<title> Micro-Raman evidence for topological charge order across the superconducting dome of La_{2-x)SrxCuO4 </title>
+<title> Pairing state at an interface of Sr$_2$RuO$_4$ : parity-mixing, restored time-reversal symmetry, and topological superconductivity </title>
+<title> A Chiral Paramagnetic Skyrmion-like Phase in MnSi </title>
+<title> Reduced fidelity in topological quantum phase transitions </title>
+<title> Equivalence of topological and scattering approaches to quantum pumping </title>
+<title> Signature of magnetic monopole and Dirac string dynamics in spin ice </title>
+<title> Accuracy thresholds of topological color codes on the hexagonal and square-octagonal lattices </title>
+<title> Electrically detected interferometry of Majorana fermions in a topological insulator </title>
+<title> Emergent superfluid crystals, frustration, and topologically defected states in multimode cavity QED </title>
+<title> Probing Neutral Majorana Fermion Edge Modes with Charge Transport </title>
+<title> Skyrmion Lattice in a Doped Semiconductor </title>
+<title> Skyrmions and Anomalous Hall Effect in a Dzyloshinskii-Moriya Spiral Magnet </title>
+<title> Transient dynamics of the nonequilibrium Majorana resonant level model </title>
+<title> p-type Bi2Se3 for topological insulator and low temperature thermoelectric applications </title>
+<title> Creation of Dirac monopoles in spinor Bose-Einstein condensates </title>
+<title> Simple observations concerning black holes and probability </title>
+<title> First observation of spin-helical Dirac fermions and topological phases in undoped and doped Bi2Te3 demonstrated by spin-ARPES spectroscopy </title>
+<title> Robustness of the Spin-Chern number </title>
+<title> Inverse quantum spin Hall effect generated by spin pumping from precessing magnetization into a graphene-based two-dimensional topological insulator </title>
+<title> The effects of interactions on the topological classification of free fermion systems </title>
+<title> Majorana fermions of a two-dimensional Px+iPy superconductor </title>
+<title> Finite temperature topological order in 2D topological color codes </title>
+<title> Stabilization of Skyrmion textures by uniaxial distortions in noncentrosymmetric cubic helimagnets </title>
+<title> Splitting of Majorana modes due to intervortex tunneling in a p + ip superconductor </title>
+<title> Diffraction of light by topological defects in liquid crystals </title>
+<title> Experimental demonstration of topological error correction </title>
+<title> Berry phase and topological spin transport in the chiral d-density wave state </title>
+<title> Numerical study of the topological Anderson insulator in HgTe/CdTe quantum wells </title>
+<title> "Burning and sticking" model for a porous material : suppression of the topological phase transition due to the backbone reinforcement effect </title>
+<title> Realization of a sonic black hole analogue in a Bose-Einstein condensate </title>
+<title> Scaling of Entanglement Entropy at 2D quantum Lifshitz fixed points and topological fluids </title>
+<title> Bose-Einstein Condensation of strongly interacting bosons : from liquid ${}^4$He to QCD monopoles </title>
+<title> Fractional topological insulators </title>
+<title> Discovery of parity-violating Majorana fermions in a chiral superconductor Sr2RuO4 </title>
+<title> Resonant response of forced complex networks : the role of topological disorder </title>
+<title> Quintuple-layer epitaxy of high-quality Bi2Se3 thin films for topological insulator </title>
+<title> Dirac Branes and Anomalies/Chern-Simons terms in any D </title>
+<title> Quantum oscillations in a topological insulator Bi_{1-x}Sb_{x} </title>
+<title> Majorana Fermion Induced Resonant Andreev Reflection </title>
+<title> Manipulation of Majorana fermion, Andreev reflection and Josephson current on topological insulators </title>
+<title> A topological gauge field in nanomagnets : spin wave excitations over a slowly moving magnetization background </title>
+<title> A generic new platform for topological quantum computation using semiconductor heterostructures </title>
+<title> Proposal for Creating a Spin-polarized p_x+ip_y State and Majorana Fermions </title>
+<title> Anomalous magnetoresistance on the topological surface </title>
+<title> Topological Control : Systematic control of topological insulator Dirac fermion density on the surface of Bi2Te3 </title>
+<title> Dynamical delocalization of Majorana edge states by sweeping across a quantum critical point </title>
+<title> Translation invariant topological superconductors on lattice </title>
+<title> Skyrmionic textures in chiral magnets </title>
+<title> Microscopic description of 2d topological phases, duality and 3d state sums </title>
+<title> Duality, Quantum Skyrmions and the Stability of an SO(3) Two-Dimensional Quantum Spin-Glass </title>
+<title> Detecting the Majorana fermion surface state of $^3$He-B through spin relaxation </title>
+<title> Translation-symmetry protected topological orders on lattice </title>
+<title> Weak (anti-)localization in doped Z_2-topological insulator </title>
+<title> STM imaging of electronic waves on the surface of Bi$_2$Te$_3$ : topologically protected surface states and hexagonal warping effects </title>
+<title> Spin Aharonov-Bohm effect and topological spin transistor </title>
+<title> Detecting Majorana bound states </title>
+<title> Theory of the topological Anderson insulator </title>
+<title> Quantum oscillations and black hole ringing </title>
+<title> Tuning the conductance of Dirac fermions on the surface of a topological insulator </title>
+<title> The surface states of topological insulators - Dirac fermion in curved two dimensional spaces </title>
+<title> Stable topological phases in a family of two-dimensional fermion models </title>
+<title> Scattering of charge carriers in graphene induced by topological defects </title>
+<title> Masses in graphene-like two-dimensional electronic systems : topological defects in order parameters and their fractional exchange statistics </title>
+<title> Massive Dirac fermions and spin physics in an ultrathin film of topological insulator </title>
+<title> Aharonov-Bohm interference in topological insulator nanoribbons </title>
+<title> Half-Skyrmion theory for high-temperature superconductivity </title>
+<title> Discovery (theoretical prediction and experimental observation) of a large-gap topological-insulator class with spin-polarized single-Dirac-cone on the surface </title>
+<title> Oscillatory crossover from two dimensional to three dimensional topological insulators </title>
+<title> Experimental demonstration of the topological surface states protected by the time-reversal symmetry </title>
+<title> Creating p-wave superfluids and topological excitations in optical lattices </title>
+<title> Tunneling through ferromagnetic barriers on the surface of a topological insulator </title>
+<title> Energy gaps, topological insulator state and zero-field quantum Hall effect in graphene by strain engineering </title>
+<title> Entanglement spectrum of topological insulators and superconductors </title>
+<title> Nature of a topological quantum phase transition in a chiral spin liquid model </title>
+<title> Superconductivity in CuxBi2Se3 and its implications for pairing in the undoped topological insulator </title>
+<title> Fractional topological excitations and quantum phase transition in a bilayer 2DEG adjacent to a superconductor film </title>
+<title> Chern-Simons theory of multi-component quantum Hall systems </title>
+<title> Symmetry protection of topological order in one-dimensional quantum spin systems </title>
+<title> Quantum Hall effect of the surface states in topological insulator </title>
+<title> Majorana Fermions and Non-Abelian Statistics in Three Dimensions </title>
+<title> Time-reversal-protected single-Dirac-cone topological-insulator states in Bi2Te3 and Sb2Te3 : Topologically Spin-polarized Dirac fermions with pi Berry's Phase </title>
+<title> $U(1) \times U(1) \rtimes Z_2$ Chern-Simons Theory and Z_4 Parafermion Fractional Quantum Hall States </title>
+<title> Electron Teleportation via Majorana Bound States in a Mesoscopic Superconductor </title>
+<title> Observation of topologically protected Dirac spin-textures and \pi Berry's phase in pure Antimony (Sb) and topological insulator BiSb </title>
+<title> On the theory of topological computation in the lowest Landau level of QHE </title>
+<title> Interaction-induced criticality in Z_2 topological insulators </title>
+<title> Entanglement spectrum of a topological phase in one dimension </title>
+<title> A topological Dirac insulator in a quantum spin Hall phase (experimental realization of a 3D Topological Insulator) </title>
+<title> Electronic structure near an impurity and terrace on the surface of a 3-dimensional topological insulator </title>
+<title> Spectral density of random graphs with topological constraints </title>
+<title> Skyrmions in the Moore-Read state at nu=5/2 </title>
+<title> Classical height models with topological order </title>
+<title> Impurity-induced states on the surface of 3D topological insulators </title>
+<title> A theorem for the existence of Majorana fermion modes in spin-orbit-coupled semiconductors </title>
+<title> Theory of quasiparticle interference on the surface of a strong topological insulator </title>
+<title> Superconductivity on the surface of topological insulators and in two-dimensional noncentrosymmetric materials </title>
+<title> Equivalent topological invariants of topological insulators </title>
+<title> Structure and dynamics of topological defects in a glassy liquid on a negatively curved manifold </title>
+<title> Electric field driven quantum phase transition between band insulator and topological insulator </title>
+<title> Role of topological defects in the phase transition of modified XY model  : A Monte Carlo study </title>
+<title> Majorana zero modes in graphene with trigonal warping </title>
+<title> Electric field modulation of topological order in thin film semiconductors </title>
+<title> Effect of TE-TM Splitting on the topological stability of half-vortices in exciton-polariton condensates </title>
+<title> NMR Evidence for Spin-Pseudospin Intermixing in Quantum Hall Skyrmions </title>
+<title> Topological stability of Majorana zero-modes in superconductor-topological insulator systems </title>
+<title> Stability of the singular vortex and associated Majorana zero modes in trapped p-wave resonant superfluids of neutral cold atoms </title>
+<title> Unconventional superconductivity on a topological insulator </title>
+<title> The topological Bloch-Floquet transform and some applications </title>
+<title> Topological invariants for Standard Model : from semi-metal to topological insulator </title>
+<title> Quantum emulation of a spin system with topologically protected ground states using superconducting quantum circuits </title>
+<title> On the stability of topological phases on a lattice </title>
+<title> Majorana fermions in a tunable semiconductor device </title>
+<title> The Z_2 network model for the quantum spin Hall effect : two-dimensional Dirac fermions, topological quantum numbers, and corner multifractality </title>
+<title> Optical characterization of Bi$_2$Se$_3$ in a magnetic field : infrared evidence for magnetoelectric coupling in a topological insulator material </title>
+<title> Singular and Half-Quantum Vortices and Associated Majorana Particles in Superfluid 3He-A between Parallel Plates </title>
+<title> Observation of unconventional band topology in a superconducting doped topological insulator, Cux-Bi2Se3 : Topological Superconductor or non-Abelian superconductor? </title>
+<title> Quasi-particle scattering and protected nature of topological states in a parent topological insulator Bi$_2$Se$_3$ </title>
+<title> Coulomb physics in spin ice, from magnetic monopoles to magnetic currents </title>
+<title> Three-dimensional topological phases in a layered honeycomb spin-orbital model </title>
+<title> Robustness of Majorana fermions in 2D topological superconductors </title>
+<title> Theory of non-Abelian Fabry-Perot interferometry in topological insulators </title>
+<title> Growth dynamics and thickness-dependent electronic structure of topological insulator Bi2Te3 thin films on Si </title>
+<title> Acoustic black holes for relativistic fluids </title>
+<title> Effective continuous model for surface states and thin films of three dimensional topological insulators </title>
+<title> Conditions for free magnetic monopoles in nanoscale square arrays of dipolar spin ice </title>
+<title> Confinement of Skyrmion states in noncentrosymmetric magnets </title>
+<title> Direct observation of spin-polarized surface states in the parent compound of a topological insulator using high-resolution spin-resolved-ARPES spectroscopy in a Mott-polarimetry mode </title>
+<title> First observation of Spin-Momentum Helical Locking in Bi2Se3 and Bi2Te3, demonstration of Topological-Order at 300K and a realization of topological-transport-regime </title>
+<title> The quantum spin Hall effect and topological insulators </title>
+<title> Oscillatory angular dependence of the magnetoresistance in a topological insulator Bi_{1-x}Sb_{x} </title>
+<title> Disordered topological quantum critical points in three-dimensional systems </title>
+<title> Is a color superconductor topological? </title>
+<title> Topological Majorana and Dirac zero modes in superconducting vortex cores </title>
+<title> Entanglement and topological order in self-dual cluster states </title>
+<title> Quantizing Majorana Fermions in a Superconductor </title>
+<title> Witten effect in a crystalline topological insulator </title>
+<title> Holographic phase transition from dyons in an AdS black hole background </title>
+<title> Unified approach to topological quantum computation with anyons : From qubit encoding to Toffoli gate </title>
+<title> The development of ferromagnetism in the doped topological insulator Bi2-xMnxTe3 </title>
+<title> Gate-controlled one-dimensional channel on the topological surface </title>
+<title> Continuous quantum phase transition between two topologically distinct valence bond solid states associated with the same spin value </title>
+<title> Proximity effect at the superconductor - topological insulator interface </title>
+<title> In-plane transport and enhanced thermoelectric performance in thin films of the topological insulators Bi_2Te_3 and Bi_2Se_3 </title>
+<title> KPZ scaling in topological mixing </title>
+<title> Tunable Casimir repulsion with three dimensional topological insulators </title>
+<title> Majorana bound states without vortices in topological superconductors with electrostatic defects </title>
+<title> Majorana Fermions and a Topological Phase Transition in Semiconductor-Superconductor Heterostructures </title>
+<title> Quenching across quantum critical points : role of topological patterns </title>
+<title> A new platform for topological quantum phenomena  : Topological Insulator states in thermoelectric Heusler-related ternary compounds </title>
+<title> Spontaneous breaking of four-fold rotational symmetry in two-dimensional electron systems as a topological phase transition </title>
+<title> Helical liquids and Majorana bound states in quantum wires </title>
+<title> Chern-Simons matrix models, two-dimensional Yang-Mills theory and the Sutherland model </title>
+<title> Two-dimensional Dirac fermions in a topological insulator : transport in the quantum limit </title>
+<title> From black holes to strange metals </title>
+<title> Tensor product representation of topological ordered phase : necessary symmetry conditions </title>
+<title> Cooper pairing near charged black holes </title>
+<title> Fermionic Hopf solitons and Berry's phase in topological surface superconductors </title>
+<title> Topological insulators and topological non-linear sigma models </title>
+<title> STM imaging of a bound state along a step on the surface of the topological insulator Bi$_2$Te$_3$ </title>
+<title> Magnetotransport of Dirac Fermions on the surface of a topological insulator </title>
+<title> Strong surface scattering in ultrahigh mobility Bi2Se3 topological insulator crystals </title>
+<title> Single-Dirac-Cone topological surface states on pseudo-IV-VI-semimetal/semiconductors : Thallium-based III-V-VI2 Ternary Chalcogenides </title>
+<title> Dynamics of magnetization on the topological surface </title>
+<title> Quantum computation on the edge of a symmetry-protected topological order </title>
+<title> Majorana zero modes bound to a vortex line in a topological superconductor </title>
+<title> Quantum impurity on the surface of a topological insulator </title>
+<title> Colossal anisotropy in diluted magnetic topological insulators </title>
+<title> Interaction-enhanced magnetically ordered insulating state at the edge of a two-dimensional topological insulator </title>
+<title> Quantum impurity spin in Majorana edge fermions </title>
+<title> Charge ordering of magnetic monopoles in triangular spin ice patterns </title>
+<title> Single-Dirac-cone Z2 topological insulator phases in distorted Li2AgSb-class and related quantum critical Li-based spin-orbit compounds </title>
+<title> Antiferromagnetic topological insulators </title>
+<title> Growth instability due to lattice-induced topological currents in limited mobility epitaxial growth models </title>
+<title> Extra Spin-Wave mode in Quantum Hall systems. Beyond the Skyrmion Limit </title>
+<title> Geometric potential and transport in photonic topological crystals </title>
+<title> Majorana edge modes of superfluid 3He A-phase in a slab </title>
+<title> Irrational charge from topological order </title>
+<title> The surface-state of the topological insulator Bi$_2$Se$_3$ revealed by cyclotron resonance </title>
+<title> Hall and spin Hall viscosity ratio in topological insulators </title>
+<title> Spontaneous breaking of four-fold rotational symmetry in two-dimensional electronic systems explained as a continuous topological transition </title>
+<title> Chiral symmetry breaking and monopole dynamics in non-compact QED3 coupled to a four-fermi interaction </title>
+<title> Characterization of 3d topological insulators by 2d invariants </title>
+<title> Fractional topological insulators in three dimensions </title>
+<title> Majorana fermions manifested as interface-states in semiconductor hybrid structures </title>
+<title> Majorana Fermion Codes </title>
+<title> Local unitary transformation, long-range quantum entanglement, wave function renormalization, and topological order </title>
+<title> Maxwell-Chern-Simons Hydrodynamics for the Chiral Magnetic Effect </title>
+<title> Spin current in topologically trivial and nontrivial noncentrosymmetric superconductors </title>
+<title> Tunneling between Two Helical Superconductors via Majorana Edge Channels </title>
+<title> Majorana fermion chain at the Quantum Spin Hall edge </title>
+<title> Probing non-Abelian statistics with Majorana fermion interferometry in spin-orbit-coupled semiconductors </title>
+<title> Zigzag edge modes in Z2 topological insulator : reentrance and completely flat spectrum </title>
+<title> Majorana liquids : the complete fractionalization of the electron </title>
+<title> Topological quantum computation away from the ground state with Majorana fermions </title>
+<title> Classical spins in topological insulators </title>
+<title> Van der Waals epitaxy of Bi2Se3 on Si(111) vicinal surface : An approach to prepare high-quality thin films of topological insulator </title>
+<title> Evidence of gate-tunable topological excitations in two-dimensional electron systems </title>
+<title> Spatial and topological organization of DNA chains induced by gene co-localization </title>
+<title> System size scaling of topological defect creation in a second-order dynamical quantum phase transition </title>
+<title> Mott scattering at the interface between a metal and a topological insulator </title>
+<title> Anyonic interferometry without anyons : How a flux qubit can read out a topological qubit </title>
+<title> Robustness of topologically protected surface states in layering of Bi2Te3 thin films </title>
+<title> Anomalous Aharonov-Bohm conductance oscillations from topological insulator surface states </title>
+<title> Aharonov-Bohm oscillations in disordered topological insulator nanowires </title>
+<title> Microwave-driven ferromagnet--topological-insulator heterostructures : The prospect for giant spin battery effect and quantized charge pump devices </title>
+<title> Kauffman Knot Invariant from SO(N) or Sp(N) Chern-Simons theory and the Potts Model </title>
+<title> Well-localized edge states in two-dimensional topological insulators : ultrathin Bi films </title>
+<title> Testing Hawking particle creation by black holes through correlation measurements </title>
+<title> Interaction-driven topological insulators on the kagome and the decorated honeycomb lattices </title>
+<title> Testing the topological nature of the fractional quantum Hall edge </title>
+<title> Splitting and oscillation of Majorana zero modes in the p-wave BCS-BEC evolution with plural vortices </title>
+<title> An optimal topological spin pump </title>
+<title> Two-dimensional surface charge transport in topological insulators </title>
+<title> Flat-lens focusing of electrons on the surface of a topological insulator </title>
+<title> Entanglement Spectrum of a Disordered Topological Chern Insulator </title>
+<title> Probing the helical edge states of a topological insulator by Cooper-pair injection </title>
+<title> Superconductivity and non-metallicity induced by doping the topological insulators Bi2Se3 and Bi2Te3 </title>
+<title> Tunneling of anyonic Majorana excitations in topological superconductors </title>
+<title> Magnetic quantum oscillations of the topological insulator surface states </title>
+<title> Gap closing and universal phase diagrams in topological insulators </title>
+<title> Landau-Ginzburg Chern-Simons model with Ue(1)xUg(1) Gauge Symmetry and Internal Pseudo-Photons </title>
+<title> Skyrmions in a Doped Antiferromagnet </title>
+<title> Absence of topological degeneracy in the Hubbard model on honeycomb lattice </title>
+<title> Non-Abelian quantum order in spin-orbit-coupled semiconductors : The search for topological Majorana particles in solid state systems </title>
+<title> Time reversal non-invariant non-Abelian topological order in non-centrosymmetric superconductors </title>
+<title> Probing surface states of topological insulator : Kondo effect and Friedel oscillation under magnetic field </title>
+<title> Scattering of charge carriers in graphene induced by topological defects </title>
+<title> Skyrmion Lattice in Two-Dimensional Chiral Magnet </title>
+<title> Electric charging of magnetic textures on the surface of a topological insulator </title>
+<title> Non-Abelian statistics and topological quantum information processing in 1D wire networks </title>
+<title> Non-Abelian Topological Orders and Majorana Fermions in Spin-Singlet Superconductors </title>
+<title> Helical Luttinger liquid in topological insulator nanowires </title>
+<title> Antilinear spectral symmetry and the vortex zero-modes in topological insulators and graphene </title>
+<title> Optical characterization of topological insulator surface states : Berry curvature-dependent response </title>
+<title> Edge accumulation and currents of moment in 2D topological insulators </title>
+<title> Photoinduced transition between conventional and topological insulators in two-dimensional electronic systems </title>
+<title> Weak indices and dislocations in general topological band structures </title>
+<title> Electric-magnetic duality of lattice systems with topological order </title>
+<title> Landau level states on a topological insulator thin film </title>
+<title> Surface-edge state and half quantized Hall conductance in topological insulators </title>
+<title> Geodesic scattering by surface deformations of a topological insulator </title>
+<title> Gauge-field fluctuations in 3D topological Mott insulators </title>
+<title> Momentum space metric, non-local operator, and topological insulators </title>
+<title> Straining the Identity of Majorana Fermions </title>
+<title> Single-Dirac-Cone topological surface states in TlBiSe2 class of Topological Insulators </title>
+<title> Transmission of topological surface states through surface barriers </title>
+<title> Large thermoelectric figure of merit for 3D topological Anderson insulators via line dislocation engineering </title>
+<title> Robustness of Majorana Modes and Minigaps in a Spin-Orbit-Coupled Semiconductor-Superconductor Heterostructure </title>
+<title> Searching for topological density wave insulators in multi-orbital square lattice systems </title>
+<title> Interaction effects and quantum phase transitions in topological insulators </title>
+<title> Vortex Created by Skyrmion Spin Texture under Magnetic Field </title>
+<title> Giant Skyrmions Stabilized by Dipole-Dipole Interactions in Thin Ferromagnetic Films </title>
+<title> Exotic phase diagram of a topological quantum system </title>
+<title> Manipulating unpaired Majorana fermions in a quantum spin chain </title>
+<title> Majorana Fermions in Nodal Superconductors : Gapless Topological Phase </title>
+<title> Multichannel Generalization of Kitaev's Majorana End States and a Practical Route to Realize Them in Thin Films </title>
+<title> The search for strong topological insulators </title>
+<title> A hierarchy of topological tensor network states </title>
+<title> Magnetic scattering of Dirac fermions in topological insulators and graphene </title>
+<title> Exciton condensations in thin film topological insulator </title>
+<title> Impurity effect on weak anti-localization in the topological insulator Bi2Te3 </title>
+<title> Chern number spins of Mn acceptor magnets in GaAs </title>
+<title> Dynamics of the (spin-) Hall effect in topological insulators and graphene </title>
+<title> Search for Majorana fermions in multiband semiconducting nanowires </title>
+<title> Chain of Majorana States from Superconducting Dirac Fermions at a Magnetic Domain Wall </title>
+<title> The Microscopic Response Method : theory of transport for systems with both topological and thermal disorder </title>
+<title> Conductance and noise signatures of Majorana backscattering </title>
+<title> Theoretical prediction of topological insulator in ternary rare earth chalcogenides </title>
+<title> Creation of topological states of a Bose-Einstein condensate in a plaquette </title>
+<title> Relation between Zitterbewegung and the charge conductivity, Berry curvature and the Chern number of multi band systems </title>
+<title> Observation of Topological Order in the TlBiSe2 class  : Probing the "spin" and "phase" on topological insulator surfaces </title>
+<title> Andreev spectroscopy and surface density of states for a three-dimensional time-reversal invariant topological superconductor </title>
+<title> Hydrodynamic theory of surface excitations of three-dimensional topological insulators </title>
+<title> Visualizing topological insulating Bi2Te3 quintuple layers on SiO2-capped Si substrates and its contrast optimization </title>
+<title> Atomic structure, energetics, and dynamics of topological solitons in Indium chains on Si(111) surfaces </title>
+<title> Wannier representation of Z_2 topological insulators </title>
+<title> Gap opening in topological-defect lattices in graphene </title>
+<title> Chiral topological excitonic insulator in semiconductor quantum wells </title>
+<title> Z$_2$ index theorem for Majorana zero modes in a class D topological superconductor </title>
+<title> Coexistence of the topological state and a two-dimensional electron gas on the surface of Bi2Se3 </title>
+<title> Holographic fractional topological insulators in 2+1 and 1+1 dimensions </title>
+<title> Tunneling characteristic of a chain of Majorana bound states </title>
+<title> Giant mesoscopic spin Hall effect on surface of topological insulator </title>
+<title> Chiral Skyrmionic matter in non-centrosymmetric magnets </title>
+<title> Photoemission induced gating of topological insulator </title>
+<title> Quantized conductance at the Majorana phase transition in a disordered superconducting wire </title>
+<title> Effects of iron doping on the topological insulator surfaces </title>
+<title> Orbital and interlayer Skyrmions crystals in bilayer graphene </title>
+<title> Quantum Spin Hall, triplet Superconductor, and topological liquid on the honeycomb lattice </title>
+<title> Z2 invariant protected bound states in topological insulators </title>
+<title> Transition between ordinary and topological insulator regimes in two-dimensional resonant magnetotransport </title>
+<title> Ordering of magnetic impurities and tunable electronic properties of topological insulators </title>
+<title> Anisotropic surface transport in topological insulators in proximity to a helical spin density wave </title>
+<title> Nonlocal Handbury-Brown Twiss Interferometry & Entanglement Generation from Majorana Bound States </title>
+<title> Superconducting phase with a chiral $f$-wave pairing symmetry and Majorana fermions induced in a hole-doped semiconductor </title>
+<title> Electromagnetic and gravitational responses and anomalies in topological insulators and superconductors </title>
+<title> A classification of 2D fermionic and bosonic topological orders </title>
+<title> Thermoelectric transport of perfectly conducting channels in two- and three-dimensional topological insulators </title>
+<title> Majorana surface states of superfluid 3He A- and B-phases in a slab </title>
+<title> Majorana meets Coxeter : Non-Abelian Majorana Fermions and Non-Abelian Statistics </title>
+<title> Confinement in Maxwell-Chern-Simons Planar Quantum Electrodynamics and the 1/N approximation </title>
+<title> Compact Skyrmions, Merons and Bimerons in Thin Chiral Magnetic Films </title>
+<title> Electrically controllable surface magnetism on the surface of topological insulator </title>
+<title> Critical theory of the topological quantum phase transition in a spin-2 chain </title>
+<title> Acoustic black holes from supercurrent tunneling </title>
+<title> Determining topological order from a local ground state correlation function </title>
+<title> Chern-Simons orbital magnetoelectric coupling in generic insulators </title>
+<title> Spin connection and boundary states in a topological insulator </title>
+<title> Topological field theory and thermal responses of interacting topological superconductors </title>
+<title> Counting Majorana zero modes in superconductors </title>
+<title> Electron interaction-driven insulating ground state in Bi2Se3 topological insulators in the two dimensional limit </title>
+<title> Topological quantum buses : coherent quantum information transfer between topological and conventional qubits </title>
+<title> Surface density of states and topological edge states in non-centrosymmetric superconductors </title>
+<title> Single particle Green's functions and interacting topological insulators </title>
+<title> Anomalous galvanomagnetism, cyclotron resonance and microwave spectroscopy of topological insulators </title>
+<title> Large bulk resistivity and surface quantum oscillations in the topological insulator Bi2Te2Se </title>
+<title> Topological BF field theory description of topological insulators </title>
+<title> Abelian and non-abelian anyons in integer quantum anomalous Hall effect and topological phase transitions via superconducting proximity effect </title>
+<title> Dimensional crossover in topological matter : Evolution of the multiple Dirac point in the layered system to the flat band on the surface </title>
+<title> Flat band in the core of topological defects : bulk-vortex correspondence in topological superfluids with Fermi points </title>
+<title> Surface Majorana Cone of the Superfluid $^3$He B Phase </title>
+<title> Nambu-Eliashberg theory for multi-scale quantum criticality  : Application to ferromagnetic quantum criticality in the surface of three dimensional topological insulators </title>
+<title> Bound states and persistent currents in topological insulator rings </title>
+<title> Correlation effects on topological insulator </title>
+<title> Inducing topological order in a honeycomb lattice </title>
+<title> Robust extended states in a topological bulk model with even spin-Chern invariant </title>
+<title> Non-Abelian operations on Majorana fermions via single charge control </title>
+<title> Andreev reflection from non-centrosymmetric superconductors and Majorana bound state generation in half-metallic ferromagnets </title>
+<title> Majorana End-States in Multi-band Microstructures with Rashba Spin-Orbit Coupling </title>
+<title> Topological superconductivity and Majorana fermions in half-metal / superconductor heterostructure </title>
+<title> Experimental evidence on the Altshuler-Aronov-Spivak interference of the topological surface states in the exfoliated Bi2Te3 nanoflakes </title>
+<title> Evidence for electron-electron interaction in topological insulator thin films </title>
+<title> Majorana fermion exchange in quasi-one-dimensional networks </title>
+<title> Phase transitions in topological lattice models via topological symmetry breaking </title>
+<title> Majorana modes at the ends of superconductor vortices in doped topological insulators </title>
+<title> Anomalous Josephson current via Majorana bound states in topological insulators </title>
+<title> Controlling non-Abelian statistics of Majorana fermions on Majorana dimer lattices </title>
+<title> Electronic topological transition in sliding bilayer graphene </title>
+<title> Flat bands in topological media </title>
+<title> Random-matrix theory of Andreev reflection from a topological superconductor </title>
+<title> Spectral properties of acoustic black hole radiation : Broadening the horizon </title>
+<title> Robustness of a perturbed topological phase </title>
+<title> Majorana path integral for nonequilibrium dynamics of two-level systems </title>
+<title> A Superconducting instability in the surface of a topological insulator </title>
+<title> Phase transitions in Z_N gauge theory and twisted Z_N topological phases </title>
+<title> Observing Majorana bound states of Josephson vortices in topological superconductors </title>
+<title> Hydrodynamics of RN AdS$_4$ black hole and Holographic Optics </title>
+<title> Intrinsic and extrinsic perturbations on the topological insulator Bi2Se3 surface states </title>
+<title> Anomalous Hall response of topological insulators </title>
+<title> Surface quantized anomalous Hall current and magneto-electric effect in magnetically disordered topological insulators </title>
+<title> Trigonal distortion of topologically confined channels in bilayer Graphene </title>
+<title> Scheme to measure Majorana fermion lifetimes using a quantum dot </title>
+<title> Charge-density-wave and topological transitions in interacting Haldane model </title>
+<title> Kaleidoscope of topological phases with multiple Majorana species </title>
+<title> Growth of quantum well films of topological insulator Bi2Se3 on insulating substrate </title>
+<title> Probing non-Abelian statistics of Majorana fermions in ultracold atomic superfluid </title>
+<title> Competing orders in the Dirac-like electronic structure and the non-linear sigma model with the topological terms </title>
+<title> Tunneling between edge states of a 2D topological insulator and a Fermi liquid lead through a quantum dot </title>
+<title> Majorana edge states in interacting one-dimensional systems </title>
+<title> Low-velocity anisotropic Dirac fermions on the side surface of topological insulators </title>
+<title> Generalized quantization condition in topological insulator </title>
+<title> Edge modes in band topological insulators </title>
+<title> Probing Majorana edge states with a flux qubit </title>
+<title> Clifford modules and symmetries of topological insulators </title>
+<title> Possible proximity of the Mott insulating Iridate Na2IrO3 to a topological phase : Phase diagram of the Heisenberg-Kitaev model in a magnetic field </title>
+<title> Soft topological objects in topological media </title>
+<title> Fractionally charged topological point defects on the kagome lattice </title>
+<title> Nonlinear optical probe of tunable surface electrons on a topological insulator </title>
+<title> Scattering formula for the topological quantum number of a disordered multi-mode wire </title>
+<title> Ab initio study of proper topological ferroelectricity in layered perovskite La2Ti2O7 </title>
+<title> Quantum criticality between topological and band insulators in $(3+1)$-dimensions </title>
+<title> Gate-tuned normal and superconducting transport at the surface of a topological insulator </title>
+<title> Microscopic simulation of superconductor-topological insulator proximity structures </title>
+<title> Shot noise in a Majorana fermion chain </title>
+<title> Topological response theory of doped topological insulators </title>
+<title> Three-dimensional topological insulators in the octahedron-decorated cubic lattice </title>
+<title> Scaling and localization lengths of a topologically disordered system </title>
+<title> Realization of an isolated Dirac node and strongly modulated Spin Texture in the topological insulator Bi2Te3 </title>
+<title> Giant topological magnetoelectric and optical Hall effects for topological insulator as a defect in photonic crystal </title>
+<title> Transverse magnetic heat transport on the topological surface </title>
+<title> Localized quasiholes and the Majorana fermion in fractional quantum Hall state at nu=5/2 via direct diagonalization </title>
+<title> Competition between weak localization and antilocalization in topological surface states </title>
+<title> Surface phonon propagation in topological insulators </title>
+<title> Quantum point contact as a probe of a topological superconductor </title>
+<title> Bringing order through disorder : Localization of errors in topological quantum memories </title>
+<title> Skyrmion-antiSkyrmion pairs in Ultracold Atomic Gases </title>
+<title> Parallel magnetic field driven quantum phase transition in a thin topological insulator film </title>
+<title> Unpaired Majorana fermions in a layered topological superconductor </title>
+<title> Effect of finite temperature and uniaxial anisotropy on the Casimir effect with three-dimensional topological insulators </title>
+<title> Skyrmion Burst and Multiple Quantum Walk in Thin Ferromagnetic Films </title>
+<title> Topological phases, Majorana modes and quench dynamics in a spin ladder system </title>
+<title> Detection of Majorana edge states in topological superconductors through the non-Fermi-liquid effects induced in an interacting quantum dot </title>
+<title> On the robustness of acoustic black hole spectra </title>
+<title> Quantum Simulation of the Majorana Equation and Unphysical Operations </title>
+<title> Circularly Polarized Resonant Rayleigh Scattering and Skyrmions in the $\nu$ = 1 Quantum Hall Ferromagnet </title>
+<title> Strong-coupling topological Josephson effect in quantum wires </title>
+<title> Robust optical delay lines via topological protection </title>
+<title> A simple topological model with continuous phase transition </title>
+<title> Local topological phase transitions in periodic condensed matter systems </title>
+<title> Magnetization dynamics and Majorana fermions in ferromagnetic Josephson junctions along the quantum spin Hall edge </title>
+<title> SU(2)-invariant spin liquids on the triangular lattice with spinful Majorana excitations </title>
+<title> Tomographic transform on a sphere and topological insulators </title>
+<title> Energy spectrum and broken spin-surface locking in topological insulator quantum dots </title>
+<title> Weak antilocalization in HgTe quantum wells and topological surface states : Massive versus massless Dirac fermions </title>
+<title> Scale-free center-of-mass displacement correlations in dense polymer solutions and melts without topological constraints and momentum conservation : A bond-fluctuation model study </title>
+<title> Supersymmetric Runge-Lenz-Pauli vector for Dirac vortex in topological insulators and graphene </title>
+<title> Extracting topological features from dynamical measures in networks of Kuramoto oscillators </title>
+<title> Majorana Fermions in Equilibrium and Driven Cold Atom Quantum Wires </title>
+<title> Dynamics of Skyrmion Crystals in Metallic Thin Films </title>
+<title> Computing topological invariants without inversion symmetry </title>
+<title> A Scheme to Classify Topological Property of Band Insulator Based On One-band U(1) Chern Number </title>
+<title> Surface spectral function in the superconducting state of a topological insulator </title>
+<title> Bulk-boundary correspondence in three dimensional topological insulators </title>
+<title> Classification of topological symmetry sectors on anyon rings </title>
+<title> Electron-phonon scattering in topological insulators </title>
+<title> Interacting non-Abelian anyons as Majorana fermions in the honeycomb lattice model </title>
+<title> Magnetic Fluctuations and Correlations in MnSi - Evidence for a Skyrmion Spin Liquid Phase </title>
+<title> Z$_2$ topological number of local quantum clusters in the orthogonal dimer model </title>
+<title> Weak topological insulator with protected gapless helical states </title>
+<title> Induced spin texture in semiconductor/topological insulator heterostructures </title>
+<title> Aharonov-Bohm oscillations in the local density of topological surface states </title>
+<title> Feasibility of self-correcting quantum memory and thermal stability of topological order </title>
+<title> High-temperature surface superconductivity in topological flat-band systems </title>
+<title> Thin topological insulator film in a perpendicular magnetic field </title>
+<title> Avalanche statistics and intermittency in topological defect-mediated flows </title>
+<title> Superradiance induced topological vortex phase in a Bose-Einstein condensate </title>
+<title> Majorana resonances and how to avoid them in periodic topological superconductor-nanowire structures </title>
+<title> Towards unambiguous calculation of the topological entropy for mixed states </title>
+<title> Berry phase of non-ideal Dirac fermions in topological insulators </title>
+<title> Crossover between weak localization and weak antilocalization in magnetically doped topological insulator </title>
+<title> Dynamics of two topologically entangled chains </title>
+<title> Spin-Momentum Locked Topological Surface States, non-trivial Berry's phase and magnetoelectric quantization in topological insulators </title>
+<title> A topological insulator surface under strong Coulomb, magnetic and disorder perturbations </title>
+<title> Direct observation of spin-polarized surface states in the parent compound of topological insulator Bi-Sb using spin-resolved-ARPES in a 3D Mott-polarimetry spin mode </title>
+<title> Helical Dirac-Majorana interferometer in a superconductor-topological insulator sandwich structure </title>
+<title> High Chern number quantum anomalous Hall phases in graphene ribbons with Haldane orbital coupling </title>
+<title> Polymers with spatial or topological constraints : theoretical and computational results </title>
+<title> Robust surface electronic properties of topological insulators : Bi2Te3 films grown by molecular beam epitaxy </title>
+<title> Universal topological phase of 2D stabilizer codes </title>
+<title> Novel Spin-texture on the warped Dirac-cone surface states in topological insulators </title>
+<title> Bulk superconducting phase with a full energy gap in the doped topological insulator Cu_xBi_2Se_3 </title>
+<title> Majorana Fermions in Strongly Interacting Helical Liquids </title>
+<title> Robustness of Majorana Fermion induced Fractional Josephson Effect </title>
+<title> Unusual magnetoresistance in a topological insulator with a single ferromagnetic barrier </title>
+<title> Developing a robust approach to implementing non-Abelian anyons and topological quantum computing in a modified Kitaev honeycomb lattice model </title>
